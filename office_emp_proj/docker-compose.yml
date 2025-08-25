@@ -1,6 +1,0 @@
-services:
-  web:
-    image: priyanka/office-app:latest
-    ports:
-      - "8080:8000"
-
