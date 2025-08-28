@@ -19,9 +19,7 @@ docker build -t office-app .
 
 3. Run the app
 ```
+
+
 docker run -d -p 8000:8000 office-app:latest
 ```
-
-## Nginx
-
-Install Nginx reverse proxy to make this application available
